@@ -44,11 +44,11 @@ Magnetic Cave is a board game implemented using Python and Tkinter for the GUI. 
 1. Clone the repository:
    ```bash
    git clone (https://github.com/zainabja52/Magnetic-Cave-.git)
-```
+
 
 2. Run the game script:
- ```bash
-python main.py
-```
+    ```bash
+   python main.py
+
 
 
